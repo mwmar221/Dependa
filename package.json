@@ -1,0 +1,22 @@
+{
+  "name": "dependa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwmar221/Dependa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwmar221/Dependa/issues"
+  },
+  "homepage": "https://github.com/mwmar221/Dependa#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
