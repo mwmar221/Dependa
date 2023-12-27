@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwmar221/Dependa#readme",
   "dependencies": {
-    "moment": "^2.29.0"
+    "moment": "^2.30.1"
   }
 }
